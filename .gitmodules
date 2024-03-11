@@ -1,0 +1,6 @@
+[submodule "lute-backend"]
+	path = lute-backend
+	url = git@github.com:fanyingfx/lute-backend.git
+[submodule "lute-frontend"]
+	path = lute-frontend
+	url = git@github.com:fanyingfx/lute-frontend.git
